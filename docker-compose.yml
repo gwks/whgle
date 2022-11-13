@@ -1,5 +1,5 @@
 services:
-  whgle:
+  go:
     image: benbusby/whoogle-search
     restart: unless-stopped
     cap_drop:
